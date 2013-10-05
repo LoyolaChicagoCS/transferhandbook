@@ -4,6 +4,8 @@
 College of DuPage
 ==========================================================================================
 
+.. include:: draft.txt
+
 
 If you have completed or are taking a course that is not listed, please contact us at (312) 915-7989.
 
@@ -23,6 +25,8 @@ If you have completed or are taking a course that is not listed, please contact 
 	"CIS 2591 Objective C", "COMP Elective"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "Non-Transferrable"

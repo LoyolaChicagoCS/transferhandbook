@@ -4,6 +4,8 @@
 City Colleges of Chicago
 ==========================================================================================
 
+.. include:: draft.txt
+
 
 If you have completed or are taking a course that is not listed, please contact us at (312) 915-7989.
 
@@ -20,6 +22,8 @@ If you have completed or are taking a course that is not listed, please contact 
         "WR: Wilbur Wright College"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "City Colleges of Chicago Courses", "Equivalent Course at Loyola"
@@ -60,6 +64,8 @@ If you have completed or are taking a course that is not listed, please contact 
         "CIS 888 Computer Information Systems COMP Elective (HW, TR, KK, MX, OH, DA, WR)", "COMP Elective"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "Non-Transferrable"

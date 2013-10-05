@@ -4,6 +4,8 @@
 Black Hawk College
 ==========================================================================================
 
+.. include:: draft.txt
+
 
 If you have completed or are taking a course that is not listed, please contact us at (312) 915-7989.
 
@@ -43,6 +45,8 @@ If you have completed or are taking a course that is not listed, please contact 
         "CS 252 Data Structures", "COMP 271 - Data Structures"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "Non-Transferrable"

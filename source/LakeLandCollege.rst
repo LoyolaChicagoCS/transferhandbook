@@ -4,6 +4,8 @@
 Lake Land College
 ==========================================================================================
 
+.. include:: draft.txt
+
 
 If you have completed or are taking a course that is not listed, please contact us at (312) 915-7989.
 
@@ -50,6 +52,8 @@ If you have completed or are taking a course that is not listed, please contact 
         "CIT 092 - Introduction to Web Page Design", "COMP Elective"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "Non-Transferrable"

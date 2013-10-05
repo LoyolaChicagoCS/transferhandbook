@@ -1,15 +1,13 @@
-.. Loyola University Chicago Computer Science - Transfer Guides
+Loyola University Chicago Computer Science - Transfer Student Guide
+===========================================================================
 
-
-
-This is a *draft* of the transfer guides for students transferring from
-another school to Loyola University Chicago. It is (a) not remotely ready and 
-(b) not at all official.
+.. include:: draft.txt
 
 Table of Contents
+------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    BlackHawkCollege.rst
    CarlSandburgCollege.rst
@@ -48,6 +46,8 @@ Table of Contents
 
 Indices and tables
 ==================
+
+.. include:: draft.txt
 
 * :ref:`genindex`
 * :ref:`modindex`

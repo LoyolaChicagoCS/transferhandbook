@@ -1,0 +1,7 @@
+.. warning::
+
+   This is a *draft* of the transfer guides for students transferring from another school to Loyola University Chicago. It is (a) not remotely ready and (b) not at all official. While we are reasonably certain that the
+   courses listed for your school are accurate, we are still working to verify the details for every course. We
+   hope to complete this process by January 2014. In the meantime, please contact upd@cs.luc.edu if you have any
+   questions about transferring to Loyola.
+

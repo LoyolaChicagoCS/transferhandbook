@@ -4,6 +4,8 @@
 Frontier Community College
 ==========================================================================================
 
+.. include:: draft.txt
+
 
 If you have completed or are taking a course that is not listed, please contact us at (312) 915-7989.
 
@@ -61,6 +63,8 @@ If you have completed or are taking a course that is not listed, please contact 
         "IST 2280 MCSA: Windows Server Cert", "COMP Elective"
 
 ==========================================================================================
+
+.. include:: draft.txt
 
 .. csv-table:: 
    	:header: "Non-Transferrable"
